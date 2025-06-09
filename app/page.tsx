@@ -68,7 +68,7 @@ const teamMembers = [
     name: "Carson",
     alias: "The Charm Champion",
     image: "/images/carson.png",
-    hometown: "Nashville, TN",
+    hometown: "Seattle, WA",
     costume: "Platinum Performance Suit with Confidence-Boosting Accessories",
     powers: [
       "Irresistible Persuasion",
